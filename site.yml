@@ -60,4 +60,5 @@
   roles:
     - cdh
   tags: cluster_template
+  ...
 
